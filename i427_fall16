@@ -1,0 +1,191 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" title="Azadeh Nematzadeh's style sheet" href="azadeh.css" type="text/css">
+    <script src="../less.js" type="text/javascript"></script>
+    <title>I427: Search Informatics</title>
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+        <h1>I427: Search Informatics</h1> 
+        <h2>Fall 2016</h2>
+      </div>
+
+      <div id="nav">
+        <ul>
+          <li><a href="#info">Basic info</a></li>
+          <li><a href="#schedule">Schedule</a></li>
+          <li><a href="#upcoming">Upcoming class</a></li>
+          <li><a href="#project">Project</a></li>
+          <li><a href="#policy">Policies</a></li>
+          <li><a href="#resources">Resources</a></li>
+        </ul>
+      </div>
+
+      <div id="contents">
+        <h1><a name="desc">Description</a></h1>
+
+       <h1>Specific objectives</h1>
+
+        <ul>
+         <li> <em>Python</em> Learn python data mining and information retrival libraries. </li>
+          
+         <li> <em>Web Crawling</em> learn techniques to obtain data from the web</li>
+          <li> <em> Parsing</em> </li>
+          <li> Indexing
+          <li> <em>Store</em> </li>
+          <li> Ranking
+
+          <li>Search Engine Optimization </li>
+
+        </ul>
+
+        <br /><hr />
+
+        <h1><a name="info">Basic information</a> <a class="up" href="#top">&uarr;</a></h1>
+
+        <dl>
+
+          dt>Time &amp; Location</dt> 
+          <dd>Inofrmatic East (I2) 130/a><br /> Tuesday 5:45pm-7:00pm<br /> First meeting:
+          Aug. 23th, 2016 (Tuesday)</dd>
+
+          <dt>Labs</dt> 
+
+          <dd> <strong>I 109</strong> <br /> 
+          
+          Thursday 11:15pm - 12:30pm <br />
+          Thursday 5:45pm - 7:00<br />
+          </dd>
+
+          <dt>Announcements </dt> 
+
+         <dd> You need to join the course mailing list to receive course
+          announcements. Visit <a> </a> and join the
+          group. All announcements will be made through
+          this mailing list.  If you have any general question or would like to
+          share something, please send an email to <a></a>
+          </dd>
+
+          <dt>Instructors</dt> 
+
+          <dd> You may send any question to the instructor mailing list: <a
+            href="">i427-2016f-instructors@.com</a>
+          
+          <br /><br />
+          
+          <a href="http://http://auzadeh.github.io/">Azadeh Nematzadeh</a> (<a href="mailto:azadnema@indiana.edu">azadnema@indiana.edu</a>) <br />
+
+            <strong>Office</strong>: Informatics East Room 322A<br /> 
+            
+            <strong>Office hours</strong>: Tuesday 2:00pm - 3:00pm <br />(you can
+            also schedule a meeting if
+            you cannot make for this time slot)<br /> <br />
+            
+              Pik-Mai Hui (<a href="mailto:huip@umail.iu.edu">huip@umail.iu.edu></a>)
+              <br /> <strong>Office hours</strong>: day 10am - 12pm at Room
+              <br /><br />
+              
+              </dd>
+          
+
+          <dt>Textbook</dt>
+
+            <dd>No textbook is required. See <a
+              href="#resources">Resources</a>. </dd>
+
+          <dt>Prerequisites</dt>
+
+            <dd> either INFO I211 and I308, or CS C211 and C212, or some comparable introductory programming course
+sequence. Please note that this course will require a significant amount of programming; depending on your programming background, you
+may need to invest a significant amount of out-of-class time in learning and practicing programming skills. </dd>
+        </dl>
+
+
+
+                
+        <h1><a name="policy">Policies</a> <a class="up" href="#top">&uarr;</a></h1> 
+
+        <h2>Class policies</h2>
+        <ul>
+
+          <li>All announcements will be sent via the course mailing list.
+          Students are responsible for reading each email announcement in
+          detail.  </li>
+
+          <li>Please contact the instructor if you have a <a
+            href="http://studentaffairs.iub.edu/dss/">disability that require
+            some arrangements</a>, or any other constraints that affect you, so
+          that appropriate arrangements can be made.  </li>
+
+          <li>The first assignment submission should be done through
+          Oncourse. Make sure that the assignments are properly submitted
+          because Oncourse sometimes fails to receive your assignments. You are
+          responsible for ensuring the submission except in rare circumstances
+          of system failure. </li>
+
+        <li>The programming assignments and final project submission should be done through
+          github.iu or hackerrank website. </li>
+          
+          <li>Late assignments: <strong>start early!</strong> Assignments will be accepted up to 48 hours after the due date, but a 10% late penalty will be assessed;
+assignments received more than 48 hours late will not be accepted and will receive a failing grade..
+          </li>
+
+        
+        </ul>
+
+        <h2><a name="project">Final Projects (Due 12/14)</a></h2>
+
+        The aim of the final project is synthesizing various aspects of
+        information infrastructure that you have been studying throughout the
+        course to build an actual system that <em>gather, store, process, and
+          serve</em> information and data. You can do either a standard project
+        or a challenge projet. 
+
+        <dl>
+          <dt>Standard project</dt>
+
+          <dd>You will build a complete web search engine and an accompanying report. </dd>
+
+        </dl>
+
+        There will be extra credits for incorporating extra elements in any
+        aspect of the system. Some examples: 
+
+        <h2>Academic integrity</h2> 
+
+        The principles of academic honesty and ethics will be enforced. Any
+        cases of academic misconduct (cheating, fabrication, plagiarism, etc)
+        will be thoroughly investigated and immediately reported to the School
+        and the Dean of Students. 
+
+        You should actively discuss with others, but you should write your own
+        code (report). Credit all the sources (discussion with other students,
+        used softwares, etc). 
+
+        <ul>
+          
+          <li><a href="http://www.iu.edu/~code/">IU Code of Student Rights,
+            Responsibilities, and Conduct</a></li> 
+        </ul>
+
+        <h2>Grading policy</h2>
+        <ul>
+          <li> Lab assignments 10%</li>
+          <li> Calss pop quizzes 20%</li>
+          <li> Assignments: 40% </li>
+          <li> Final project: 30% </li>
+        </ul>
+        
+        
+        <p>pop quizzes will consist of multiple-choice and short answer
+        questions and they will be about course material we covered and lab
+        assignments. </p>
+
+        <p>You will get an F grade if you fail to submit the final project. </p>
+
+        
+  </body>
+</html>
