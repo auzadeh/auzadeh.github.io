@@ -1,0 +1,186 @@
+.firstletter {
+  float: left;
+  font-size: 4.3em;
+  line-height: 0.9em;
+  font-weight: bold;
+  padding: 0;
+  margin-right: 0.1em;
+  margin-top: -0.03em;
+  margin-bottom: 0em;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f0f0f0;
+  font: 15px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.3em;
+}
+blockquote {
+  margin: 25px 0;
+  padding: 12.5px;
+  background: #f0f0f0;
+  border: 1px solid #cccccc;
+}
+li {
+  padding: 3px;
+}
+.imp {
+  background: #ffb977;
+  text-align: center;
+}
+.noclass {
+  background: #bbffbb;
+  text-align: center;
+}
+.topic {
+  background: #c9c9c9;
+  text-align: center;
+  font-weight: bold;
+}
+.tablepadding {
+  padding: 10px 8px;
+}
+dl dt {
+  padding: 10px 8px;
+  float: left;
+  font-weight: bold;
+  font-size: 18px;
+}
+dl dd {
+  padding: 10px 8px;
+  padding-left: 150px;
+}
+dl dt.noclass, dl dd.noclass {
+  background: #bbffbb;
+  text-align: center;
+}
+dl dt.imp, dl dd.imp {
+  background: #ffb977;
+  text-align: center;
+}
+table {
+  border: 0;
+  font-size: 16px;
+  width: 98%;
+  margin: auto;
+}
+table th, table td {
+  padding: 10px 8px;
+}
+table tr.imp > td {
+  background: #5cd6d6;
+  text-align: center;
+}
+table tr.noclass > td {
+  background: #669900;
+  text-align: center;
+}
+table tr.topic > td {
+  background: #669900;
+  text-align: center;
+  font-weight: bold;
+}
+table th {
+  background: #ffe0c3;
+}
+table td {
+  background: #f0f0f0;
+}
+table ul {
+  margin: 2px;
+}
+table ul li {
+  padding: 0px;
+  margin-left: -15px;
+  font-size: 13px;
+}
+#container {
+  background-color: white;
+  width: 900px;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  margin: auto;
+}
+#header {
+  padding: 25px;
+  padding-left: 50px;
+}
+#header h1 {
+  font-size: 30px;
+  color: #0066cc;
+}
+#header h2 {
+  font-size: 18px;
+  color: #000033;
+}
+#nav {
+  color: white;
+  background: #000099;
+  /* Show a solid color for older browsers */
+
+  background: -moz-linear-gradient(#000099, ##0066ff);
+  background: -o-linear-gradient(#000099, ##0066ff);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000099), to(#0066ff));
+  background: -webkit-linear-gradient(#444444, #0a0a0a);
+  -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
+  clear: both;
+  display: block;
+  float: left;
+  margin: 0px auto 0px;
+  width: 900px;
+}
+#nav ul li {
+  display: inline;
+  font-weight: bold;
+}
+#nav ul li a {
+  padding: 0 1.3em;
+}
+#nav ul a, #nav ul a:visited {
+  color: white;
+  text-decoration: none;
+}
+#nav ul li:hover > a, #nav ul a:focus {
+  color: #dd6b00;
+}
+#contents {
+  padding: 50px;
+}
+#contents h1 {
+  font-size: 25px;
+  color: #0066ff;
+  line-height: 0.65em;
+  padding-top: 25px;
+}
+#contents h1 a.up {
+  font-size: 16px;
+  float: right;
+  text-decoration: none;
+}
+#contents h1 a.up:visited {
+  text-decoration: none;
+}
+#contents h2 {
+  font-size: 18px;
+  color: black;
+  background: #f0f0f0;
+  padding: 5px;
+}
+#contents h3 {
+  font-size: 17px;
+  font-weight: normal;
+  border-left: 3px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 10px;
+}
+#footer {
+  margin-top: 25px;
+  border-top: 1px solid #cccccc;
+  padding: 12.5px;
+  padding-left: 50px;
+  font-size: 10px;
+  font-style: italic;
+}
