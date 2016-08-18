@@ -81,7 +81,8 @@ table tr.topic > td {
   font-weight: bold;
 }
 table th {
-  background: #ffe0c3;
+  background: #0066cc;
+  color: F1BFBE;
 }
 table td {
   background: #f0f0f0;
@@ -116,13 +117,8 @@ table ul li {
 }
 #nav {
   color: white;
-  background: #000099;
+  background: #d3d3d3;
   /* Show a solid color for older browsers */
-
-  background: -moz-linear-gradient(#000099, ##0066ff);
-  background: -o-linear-gradient(#000099, ##0066ff);
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#000099), to(#0066ff));
-  background: -webkit-linear-gradient(#444444, #0a0a0a);
   -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
@@ -140,11 +136,11 @@ table ul li {
   padding: 0 1.3em;
 }
 #nav ul a, #nav ul a:visited {
-  color: white;
+  color: #0066cc;
   text-decoration: none;
 }
 #nav ul li:hover > a, #nav ul a:focus {
-  color: #dd6b00;
+  color: black;
 }
 #contents {
   padding: 50px;
